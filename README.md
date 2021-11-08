@@ -1,4 +1,6 @@
 [![My Name](https://github-readme-stats.vercel.app/api/pin/?username=KeanTech&repo=BinaryGame&theme=onedark&show_owner=false)](https://github.com/KeanTech/BinaryGame) 
+
+[![TQC Solutions Repo](https://github-readme-stats.vercel.app/api/pin/?username=KeanTech&repo=H3Opgaver&theme=onedark&show_owner=false)](https://github.com/KeanTech/H3Opgaver)
 ### Hi there 👋
 
 <!--
