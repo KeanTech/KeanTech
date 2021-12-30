@@ -17,8 +17,8 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KeanTech&repo=ProjektDB&theme=onedark&show_owner=false" />
   </a>
   
-  <a href="https://github.com/KeanTech/BinaryGame">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KeanTech&repo=BinaryGame&theme=onedark&show_owner=false" />
+  <a href="https://github.com/KeanTech/iZeQure/JobAgent">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=iZeQure&repo=JobAgent&theme=onedark&show_owner=false" />
   </a>
 </div>
 <div style="margin-bottom: 5px; color:red;">
