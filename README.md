@@ -11,10 +11,12 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KeanTech&repo=BinaryGame&theme=onedark&show_owner=false" />
   </a>
 </div>
-<div style="margin-bottom: 5px">
-  <p style="font-size: 18px; foreground-color: red;">                          
+<div style="margin-bottom: 5px foreground-color:red;">
+  <br/>                         
 - 🔭 I’m currently working on apis and web development
+  <br/>
 - 🌱 I’m currently learning selenium 
+  <br/>
 - 🤔 I’m looking for help with a apprenticeship
   </p>
 </div>
