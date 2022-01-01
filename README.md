@@ -29,9 +29,9 @@
 </div>
 <div style="margin-bottom: 5px; color:red;">
   <br/>                         
-- 🔭 I’m currently working on apis and web development
+- 🔭 I’m currently working on async tasks, apis and web development
   <br/>
-- 🌱 I’m currently learning selenium and blazor
+- 🌱 I’m currently learning selenium, blazor and hopefully soon MAUI 
   <br/>
 - 🤔 I’m looking for a apprenticeship somewhere !
   </p>
