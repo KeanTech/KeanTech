@@ -11,7 +11,7 @@
 <!-- Repo Stats Display -->
 <div style="margin-bottom: 5px;">
   <a href="https://github.com/KeanTech/DynamicDataDisplay">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KeanTech&repo=DynamicDataDisplay&theme=onedark&show_owner=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=KeanTech&repo=DynamicDataDisplay&theme=onedark&show_owner=false&langs_count=10" />
   </a>
   
   <a href="https://github.com/KeanTech/ProjektDB">
